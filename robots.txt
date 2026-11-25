@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jac-trucks.uz/sitemap.xml
